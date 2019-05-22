@@ -1,0 +1,38 @@
+  
+  #imagen {
+    border:black 8px outset;
+    width: 59%;
+    height: 300px;
+  }
+
+  img{
+      width: 100%;
+      height: 299px;
+  }
+
+  #anterior{
+    border-radius: 6px;
+    border-color: black;
+    color:purple;
+    position: relative;
+     
+  }
+  #inicio{
+    border-radius: 6px;
+    color: purple;
+    border-color: black;
+    position: relative;
+    
+  }
+  #siguiente{
+    border-radius: 6px;
+    color: purple;
+    border-color: black;
+    position: relative;
+  }
+
+ h1{
+     color: black;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+   
+ }
